@@ -1,0 +1,106 @@
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="176.02631mm"
+   height="134.17926mm"
+   viewBox="0 0 665.29628 507.13421"
+   version="1.1"
+   id="svg454"
+   sodipodi:docname="svg map.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <rect
+     style="fill:#0000ff;fill-rule:evenodd"
+     id="rect464"
+     width="135.6711"
+     height="129.14148"
+     x="6.5296249"
+     y="113.18018" />
+  <text
+     xml:space="preserve"
+     id="text466"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect468);fill:#000000;fill-opacity:1;stroke:none;"
+     transform="translate(-105.92503,-37.001209)" />
+  <text
+     xml:space="preserve"
+     id="text472"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect474);fill:#800000;fill-opacity:1;stroke:none;"
+     transform="translate(-105.92503,-37.001209)"><tspan
+       style="visibility:hidden"
+       x="369.87891"
+       y="279.54009"><tspan
+         dx="0 -33.847656 -15.761719 -15.761719 -9.765625 -21.191406 -15.761719 -8.28125 -9.765625 -9.765625 -8.28125 -9.765625 -9.765625 -8.28125 -9.765625 -9.765625 -8.28125 -9.765625"
+         style="fill:#800000">ar</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="7.5254364"
+     y="170.77493"
+     id="text480"><tspan
+       sodipodi:role="line"
+       id="tspan478"
+       x="7.5254364"
+       y="170.77493">zone 1 </tspan></text>
+  <rect
+     style="fill:#00ff00"
+     id="rect498"
+     width="368.56107"
+     height="168.31923"
+     x="6.5296249"
+     y="242.32166" />
+  <rect
+     style="fill:#00ff00"
+     id="rect500"
+     width="140.74969"
+     height="238.69408"
+     x="142.20071"
+     y="3.6275787" />
+  <rect
+     style="fill:#00ff00"
+     id="rect502"
+     width="165.41718"
+     height="53.68803"
+     x="282.95041"
+     y="188.63364" />
+  <rect
+     style="fill:#00ff00"
+     id="rect504"
+     width="1.4510279"
+     height="14.510278"
+     x="494.07495"
+     y="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="145.66066"
+     y="136.38487"
+     id="text480-4"><tspan
+       sodipodi:role="line"
+       id="tspan478-2"
+       x="145.66066"
+       y="136.38487">zone 2 </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="293.40924"
+     y="226.67564"
+     id="text480-6"><tspan
+       sodipodi:role="line"
+       id="tspan478-4"
+       x="293.40924"
+       y="226.67564">zone 3 </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="151.81685"
+     y="337.48706"
+     id="text480-64"><tspan
+       sodipodi:role="line"
+       id="tspan478-3"
+       x="151.81685"
+       y="337.48706">zone 4 </tspan></text>
+</svg>
